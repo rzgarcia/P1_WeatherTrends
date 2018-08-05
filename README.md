@@ -9,22 +9,28 @@ What tools did you use for each step? (Python, SQL, Excel, etc)
 
 I extracted the data from the database with SQL as following steps:
 1- overview the CSV in city_list
+
 ![Image of city list](https://github.com/rzgarcia/Weather-trends/blob/master/1.png)
 
 1.1- find my city Brisbane, Australia in city_list by extracting all cities in Australia to make sure the Brisbane data exists
+
 ![Image of city Brisbane](https://github.com/rzgarcia/Weather-trends/blob/master/2.png)
 
 2- overview city_data:
+
 ![Image of city data](https://github.com/rzgarcia/Weather-trends/blob/master/3.png)
 
 2.1- extract Brisbane weather database from city_data and download CSV:
+
 ![Image of data of Brisbane](https://github.com/rzgarcia/Weather-trends/blob/master/4.png)
 
 3- extract Global weather database from global_data download CSV from year 1841 to 2013, because the weather data for Brisbane starts on 1841 and ends on 2013
+
 ![Image of global data](https://github.com/rzgarcia/Weather-trends/blob/master/5.png)
 
 How did you calculate the moving average?
 I did a moving average of every 20 years within Excel as following for both global and Brisbane weather.
+
 ![Image of moving average](https://github.com/rzgarcia/Weather-trends/blob/master/6.png)
 
 What were your key considerations when deciding how to visualize the trends?
@@ -34,6 +40,7 @@ Secondly, I chose to use moving averages of 20 years because this method allowed
 Finally, the line chart is a useful graph for forecasting long-term trend.
 
 Line chart with local and global temperature trends
+
 ![Image of moving average](https://github.com/rzgarcia/Weather-trends/blob/master/7.png)
 
 At least four observations about the similarities and/or differences in the trends
