@@ -33,20 +33,20 @@ I did a moving average of every 20 years within Excel as following for both glob
 
 ![Image of moving average](https://github.com/rzgarcia/Weather-trends/blob/master/6.png)
 
-What were your key considerations when deciding how to visualize the trends?
-The main considerations were which data I should use and how to use them to visualize the trends.
-Firstly, I observed the database and realised that the years of average temperature data for global and for Brisbane are different: global one starts from 1750 and ends with 2015, while data for Brisbane starts from 1841 and ends with 2013. I only extracted data for global temperature from 1841 to 2013, so that we only have an effective database to compare for both global and Brisbane temperature.
-Secondly, I chose to use moving averages of 20 years because this method allowed me to have a better idea of the trends in time series, by ignoring some hazard fluctuations in a short term.
+What were your key considerations when deciding how to visualize the trends?<br/>
+The main considerations were which data I should use and how to use them to visualize the trends.<br/>
+Firstly, I observed the database and realised that the years of average temperature data for global and for Brisbane are different: global one starts from 1750 and ends with 2015, while data for Brisbane starts from 1841 and ends with 2013. I only extracted data for global temperature from 1841 to 2013, so that we only have an effective database to compare for both global and Brisbane temperature.<br/>
+Secondly, I chose to use moving averages of 20 years because this method allowed me to have a better idea of the trends in time series, by ignoring some hazard fluctuations in a short term.<br/>
 Finally, the line chart is a useful graph for forecasting long-term trend.
 
 Line chart with local and global temperature trends
 
 ![Image of moving average](https://github.com/rzgarcia/Weather-trends/blob/master/7.png)
 
-At least four observations about the similarities and/or differences in the trends
-This line graph represents trends of global temperature and the temperature in Brisbane Australia following moving average of 20 years.
-According to the data, the average temperature in Brisbane is always approximately 11 degrees higher than global average temperature. 
-However, both of them follow the same trend and increase slowly with around 1.5 degrees from 1841 to 2013. The global average temperature went up from about 8 degrees to 9.5 degrees, while the average  temperature in Brisbane changed from around 18.5 degrees to 20 degrees. 
+At least four observations about the similarities and/or differences in the trends<br/>
+This line graph represents trends of global temperature and the temperature in Brisbane Australia following moving average of 20 years.<br/>
+According to the data, the average temperature in Brisbane is always approximately 11 degrees higher than global average temperature. <br/>
+However, both of them follow the same trend and increase slowly with around 1.5 degrees from 1841 to 2013. The global average temperature went up from about 8 degrees to 9.5 degrees, while the average  temperature in Brisbane changed from around 18.5 degrees to 20 degrees. <br/>
 In conclusion, the overall upward trend of the temperature for the past 170 years tended to illustrate that people should be aware of environment issue: minimize the pollution and take good care of our unique earth.
 
 
